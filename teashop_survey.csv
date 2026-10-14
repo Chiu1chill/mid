@@ -1,0 +1,421 @@
+response_id,branch,member,age_group,cups,spend,wait_min,satisfaction
+1001,Tsuen Wan,0,20-29,1,28,,very satisfied
+1002,Causeway Bay,0,20-29,1,32,9.4,neutral
+1003,Mong Kok,1,20-29,4,137,,satisfied
+1004,Tsuen Wan,0,20-29,1,37,8.6,dissatisfied
+1005,Sha Tin,1,20-29,2,82,8.8,satisfied
+1006,Causeway Bay,0,20-29,1,70,5.3,satisfied
+1007,Sha Tin,0,20-29,2,61,6.4,satisfied
+1008,Tsuen Wan,0,20-29,1,31,3.2,very satisfied
+1009,Sha Tin,0,30-39,2,63,5.5,neutral
+1010,Causeway Bay,0,30-39,1,27,7.1,satisfied
+1011,Causeway Bay,1,40-49,2,69,4.3,satisfied
+1012,Kwun Tong,1,40-49,2,76,5.9,satisfied
+1013,Causeway Bay,0,40-49,10,334,8.4,satisfied
+1014,Tsuen Wan,1,30-39,2,67,7.0,satisfied
+1015,Causeway Bay,0,40-49,2,76,8.6,dissatisfied
+1016,Tsuen Wan,0,40-49,2,60,,satisfied
+1017,Sha Tin,1,20-29,3,90,7.9,neutral
+1018,Mong Kok,0,40-49,1,41,6.7,very satisfied
+1019,Kwun Tong,0,30-39,2,61,5.1,neutral
+1020,Tsuen Wan,0,30-39,1,37,7.6,satisfied
+1021,Kwun Tong,1,20-29,2,72,,satisfied
+1022,Tsuen Wan,1,Under 20,1,54,9.3,satisfied
+1023,Tsuen Wan,0,20-29,1,52,8.5,neutral
+1024,Causeway Bay,0,30-39,2,63,7.0,dissatisfied
+1025,Kwun Tong,0,Under 20,2,83,10.4,neutral
+1026,Sha Tin,0,30-39,1,35,9.9,neutral
+1027,Sha Tin,1,20-29,3,130,4.3,satisfied
+1028,Mong Kok,0,30-39,1,64,10.2,dissatisfied
+1029,Tsuen Wan,1,40-49,1,65,9.3,satisfied
+1030,Tsuen Wan,1,20-29,2,76,13.0,dissatisfied
+1031,Tsuen Wan,0,30-39,2,71,5.8,satisfied
+1032,Causeway Bay,0,Under 20,1,39,8.7,satisfied
+1033,Tsuen Wan,0,50 or over,1,50,6.3,neutral
+1034,Kwun Tong,0,30-39,2,52,4.3,neutral
+1035,Tsuen Wan,0,30-39,1,38,9.0,dissatisfied
+1036,Sha Tin,1,Under 20,1,32,4.0,neutral
+1037,Sha Tin,1,40-49,1,29,3.4,very satisfied
+1038,Causeway Bay,1,20-29,1,34,7.0,satisfied
+1039,Mong Kok,0,20-29,1,30,6.6,very satisfied
+1040,Tsuen Wan,1,40-49,1,32,4.3,satisfied
+1041,Mong Kok,0,30-39,2,84,8.4,very satisfied
+1042,Tsuen Wan,0,20-29,1,40,8.5,neutral
+1043,Tsuen Wan,0,30-39,1,42,6.5,very satisfied
+1044,Mong Kok,1,20-29,2,70,10.2,satisfied
+1045,Mong Kok,0,20-29,1,41,7.3,neutral
+1046,Causeway Bay,0,Under 20,2,75,7.5,neutral
+1047,Causeway Bay,1,40-49,2,75,8.9,dissatisfied
+1048,Mong Kok,0,40-49,1,38,10.0,dissatisfied
+1049,Causeway Bay,0,Under 20,1,34,6.3,neutral
+1050,Causeway Bay,1,Under 20,1,61,9.4,satisfied
+1051,Tsuen Wan,0,Under 20,1,58,8.9,satisfied
+1052,Kwun Tong,1,Under 20,1,39,7.9,neutral
+1053,Sha Tin,1,20-29,1,40,5.2,neutral
+1054,Tsuen Wan,0,Under 20,1,49,8.6,dissatisfied
+1055,Causeway Bay,1,20-29,3,98,9.0,dissatisfied
+1056,Mong Kok,0,40-49,2,80,10.9,dissatisfied
+1057,Causeway Bay,1,20-29,2,61,8.9,satisfied
+1058,Mong Kok,1,20-29,2,59,9.6,neutral
+1059,Causeway Bay,0,Under 20,1,40,7.7,neutral
+1060,Sha Tin,1,50 or over,3,106,4.9,very satisfied
+1061,Sha Tin,1,30-39,1,29,3.9,very satisfied
+1062,Causeway Bay,0,20-29,1,31,9.1,neutral
+1063,Sha Tin,1,20-29,2,60,6.4,very satisfied
+1064,Causeway Bay,1,40-49,2,89,9.5,very satisfied
+1065,Causeway Bay,0,20-29,2,83,7.2,satisfied
+1066,Causeway Bay,1,30-39,1,40,10.7,neutral
+1067,Kwun Tong,0,30-39,2,73,10.0,neutral
+1068,Mong Kok,1,50 or over,1,35,9.0,neutral
+1069,Causeway Bay,0,30-39,2,61,8.4,satisfied
+1070,Sha Tin,1,Under 20,3,137,7.0,neutral
+1071,Sha Tin,0,Under 20,1,38,7.9,satisfied
+1072,Mong Kok,0,30-39,1,54,5.0,neutral
+1073,Kwun Tong,0,20-29,1,31,5.4,satisfied
+1074,Sha Tin,1,20-29,1,54,4.4,very satisfied
+1075,Sha Tin,1,20-29,2,74,5.1,satisfied
+1076,Causeway Bay,0,30-39,1,47,8.4,satisfied
+1077,Causeway Bay,0,20-29,2,91,8.8,dissatisfied
+1078,Sha Tin,0,50 or over,1,31,7.1,dissatisfied
+1079,Causeway Bay,0,20-29,1,37,9.7,satisfied
+1080,Causeway Bay,0,20-29,2,68,6.2,satisfied
+1081,Sha Tin,1,Under 20,2,64,5.9,very satisfied
+1082,Mong Kok,0,30-39,1,42,12.1,very dissatisfied
+1083,Kwun Tong,0,20-29,1,42,4.7,neutral
+1084,Kwun Tong,1,40-49,1,54,9.5,satisfied
+1085,Causeway Bay,1,30-39,3,98,8.0,neutral
+1086,Mong Kok,1,20-29,2,94,12.6,dissatisfied
+1087,Tsuen Wan,0,50 or over,2,87,7.2,dissatisfied
+1088,Mong Kok,0,20-29,2,67,12.1,satisfied
+1089,Sha Tin,0,Under 20,3,133,5.8,satisfied
+1090,Mong Kok,1,40-49,1,46,13.9,neutral
+1091,Sha Tin,0,Under 20,1,28,3.6,very satisfied
+1092,Kwun Tong,0,40-49,1,30,5.6,satisfied
+1093,Tsuen Wan,0,30-39,4,176,9.5,neutral
+1094,Kwun Tong,0,50 or over,1,55,15.1,very dissatisfied
+1095,Causeway Bay,0,20-29,3,119,7.6,very satisfied
+1096,Causeway Bay,1,20-29,1,33,11.0,neutral
+1097,Causeway Bay,1,40-49,1,60,6.5,satisfied
+1098,Mong Kok,0,20-29,1,32,10.9,satisfied
+1099,Tsuen Wan,0,30-39,2,76,9.9,dissatisfied
+1100,Sha Tin,1,30-39,2,85,6.3,satisfied
+1101,Sha Tin,0,20-29,1,27,7.6,satisfied
+1102,Causeway Bay,0,Under 20,1,42,7.6,very satisfied
+1103,Causeway Bay,0,40-49,3,110,8.2,very satisfied
+1104,Causeway Bay,0,20-29,2,69,13.4,very dissatisfied
+1105,Tsuen Wan,1,20-29,1,37,5.7,very satisfied
+1106,Tsuen Wan,0,20-29,2,56,9.0,satisfied
+1107,Causeway Bay,0,Under 20,1,28,3.0,neutral
+1108,Mong Kok,1,40-49,1,35,9.7,neutral
+1109,Sha Tin,0,30-39,6,217,7.0,dissatisfied
+1110,Causeway Bay,0,30-39,1,30,4.4,neutral
+1111,Mong Kok,1,50 or over,2,68,5.6,satisfied
+1112,Mong Kok,0,20-29,1,54,8.9,dissatisfied
+1113,Mong Kok,0,30-39,1,37,10.8,dissatisfied
+1114,Causeway Bay,0,40-49,1,30,8.4,neutral
+1115,Mong Kok,0,40-49,4,130,11.9,neutral
+1116,Mong Kok,0,40-49,3,86,,neutral
+1117,Sha Tin,0,40-49,1,33,7.4,neutral
+1118,Sha Tin,0,Under 20,2,63,9.0,satisfied
+1119,Causeway Bay,1,40-49,2,79,5.6,satisfied
+1120,Sha Tin,1,20-29,1,51,9.4,satisfied
+1121,Mong Kok,0,20-29,1,27,11.5,neutral
+1122,Mong Kok,0,50 or over,1,30,12.9,dissatisfied
+1123,Mong Kok,0,20-29,1,41,7.9,very satisfied
+1124,Kwun Tong,1,20-29,3,102,7.3,very satisfied
+1125,Mong Kok,0,40-49,2,82,12.1,satisfied
+1126,Tsuen Wan,0,40-49,2,71,5.8,very satisfied
+1127,Kwun Tong,1,50 or over,3,124,7.5,satisfied
+1128,Causeway Bay,0,40-49,2,73,6.7,dissatisfied
+1129,Sha Tin,1,30-39,2,75,5.0,neutral
+1130,Causeway Bay,0,Under 20,1,36,6.8,satisfied
+1131,Causeway Bay,0,40-49,2,82,7.7,satisfied
+1132,Mong Kok,0,20-29,3,96,7.1,satisfied
+1133,Sha Tin,1,20-29,1,40,8.1,dissatisfied
+1134,Mong Kok,0,30-39,4,142,6.0,very satisfied
+1135,Kwun Tong,0,30-39,3,99,7.5,neutral
+1136,Mong Kok,1,20-29,1,27,11.3,neutral
+1137,Mong Kok,0,40-49,2,65,8.3,dissatisfied
+1138,Causeway Bay,0,Under 20,1,28,10.9,satisfied
+1139,Causeway Bay,0,40-49,1,62,10.8,satisfied
+1140,Mong Kok,0,50 or over,3,143,10.4,satisfied
+1141,Tsuen Wan,1,Under 20,1,29,5.9,satisfied
+1142,Mong Kok,0,40-49,1,58,8.1,satisfied
+1143,Causeway Bay,0,Under 20,1,29,6.0,satisfied
+1144,Sha Tin,1,30-39,2,61,6.9,neutral
+1145,Mong Kok,0,50 or over,1,28,9.6,dissatisfied
+1146,Mong Kok,0,30-39,2,91,7.2,neutral
+1147,Mong Kok,0,20-29,2,72,7.9,dissatisfied
+1148,Tsuen Wan,0,30-39,2,69,7.9,satisfied
+1149,Sha Tin,1,Under 20,1,32,4.3,satisfied
+1150,Kwun Tong,0,20-29,3,90,10.2,dissatisfied
+1151,Causeway Bay,1,20-29,1,58,10.2,neutral
+1152,Sha Tin,1,20-29,3,95,6.9,neutral
+1153,Mong Kok,0,20-29,1,42,7.9,satisfied
+1154,Tsuen Wan,0,20-29,7,226,8.7,neutral
+1155,Mong Kok,1,40-49,1,27,9.8,neutral
+1156,Tsuen Wan,1,20-29,2,64,7.6,satisfied
+1157,Mong Kok,0,40-49,1,39,5.5,satisfied
+1158,Tsuen Wan,0,20-29,1,40,5.4,neutral
+1159,Sha Tin,1,40-49,1,42,4.5,very satisfied
+1160,Sha Tin,0,20-29,1,34,8.7,very satisfied
+1161,Causeway Bay,1,20-29,1,37,6.3,satisfied
+1162,Tsuen Wan,1,20-29,2,89,12.8,dissatisfied
+1163,Mong Kok,0,30-39,1,52,6.2,satisfied
+1164,Tsuen Wan,1,30-39,2,70,10.5,neutral
+1165,Kwun Tong,1,30-39,1,37,8.3,neutral
+1166,Tsuen Wan,1,30-39,2,63,8.4,satisfied
+1167,Causeway Bay,0,20-29,2,72,9.2,satisfied
+1168,Causeway Bay,0,50 or over,4,144,6.0,very satisfied
+1169,Sha Tin,1,50 or over,2,82,8.9,neutral
+1170,Causeway Bay,1,40-49,2,65,8.5,very satisfied
+1171,Causeway Bay,0,20-29,1,59,,satisfied
+1172,Sha Tin,1,20-29,2,64,10.1,very satisfied
+1173,Mong Kok,1,30-39,1,42,6.2,neutral
+1174,Mong Kok,1,30-39,2,70,5.0,very satisfied
+1175,Sha Tin,1,20-29,1,58,7.6,neutral
+1176,Mong Kok,0,20-29,1,33,9.8,satisfied
+1177,Causeway Bay,1,40-49,1,32,6.5,very satisfied
+1178,Tsuen Wan,1,50 or over,3,100,1.0,very satisfied
+1179,Mong Kok,1,20-29,2,76,7.9,neutral
+1180,Causeway Bay,1,30-39,1,50,3.3,very satisfied
+1181,Sha Tin,1,Under 20,3,82,8.1,very satisfied
+1182,Mong Kok,0,30-39,2,72,6.7,neutral
+1183,Mong Kok,0,50 or over,1,48,10.9,neutral
+1184,Tsuen Wan,0,20-29,1,44,9.7,very satisfied
+1185,Tsuen Wan,0,30-39,2,88,7.2,very satisfied
+1186,Sha Tin,1,Under 20,1,53,7.0,dissatisfied
+1187,Sha Tin,0,Under 20,1,50,7.5,satisfied
+1188,Causeway Bay,0,20-29,1,28,8.2,satisfied
+1189,Tsuen Wan,1,40-49,1,62,5.0,very satisfied
+1190,Mong Kok,0,40-49,1,35,8.7,neutral
+1191,Sha Tin,0,30-39,1,39,10.2,satisfied
+1192,Sha Tin,0,20-29,1,55,10.7,neutral
+1193,Sha Tin,0,40-49,1,33,7.2,very satisfied
+1194,Tsuen Wan,0,Under 20,1,38,8.2,satisfied
+1195,Sha Tin,0,40-49,2,62,7.2,satisfied
+1196,Mong Kok,1,30-39,1,37,5.6,satisfied
+1197,Mong Kok,1,20-29,1,41,11.7,neutral
+1198,Causeway Bay,0,40-49,3,120,6.9,very satisfied
+1199,Sha Tin,1,20-29,2,103,,satisfied
+1200,Causeway Bay,1,20-29,1,62,6.8,satisfied
+1201,Causeway Bay,0,30-39,3,95,8.1,satisfied
+1202,Tsuen Wan,0,30-39,3,94,7.1,neutral
+1203,Tsuen Wan,0,30-39,2,59,6.2,neutral
+1204,Tsuen Wan,1,20-29,1,40,8.7,neutral
+1205,Sha Tin,1,20-29,2,77,4.3,satisfied
+1206,Causeway Bay,1,Under 20,2,67,6.0,satisfied
+1207,Causeway Bay,0,20-29,1,36,8.7,very satisfied
+1208,Causeway Bay,1,20-29,1,62,6.2,very satisfied
+1209,Tsuen Wan,0,20-29,1,65,3.2,very satisfied
+1210,Mong Kok,0,30-39,2,66,5.5,neutral
+1211,Causeway Bay,1,20-29,1,35,5.6,satisfied
+1212,Mong Kok,0,30-39,1,32,6.2,satisfied
+1213,Kwun Tong,1,20-29,3,94,,very satisfied
+1214,Sha Tin,0,Under 20,1,38,8.3,neutral
+1215,Mong Kok,0,20-29,2,69,8.0,neutral
+1216,Mong Kok,0,50 or over,2,54,10.0,neutral
+1217,Tsuen Wan,0,20-29,1,41,3.7,neutral
+1218,Mong Kok,0,20-29,1,27,8.2,neutral
+1219,Causeway Bay,1,50 or over,2,105,8.7,neutral
+1220,Mong Kok,0,30-39,1,29,,neutral
+1221,Kwun Tong,0,30-39,2,70,8.4,neutral
+1222,Mong Kok,0,20-29,1,32,9.7,neutral
+1223,Causeway Bay,0,20-29,1,50,7.3,satisfied
+1224,Mong Kok,1,20-29,2,83,10.0,neutral
+1225,Sha Tin,0,30-39,2,75,6.4,very satisfied
+1226,Tsuen Wan,0,20-29,1,39,9.3,very satisfied
+1227,Mong Kok,1,20-29,1,27,8.1,neutral
+1228,Sha Tin,1,40-49,2,64,,dissatisfied
+1229,Mong Kok,0,50 or over,1,63,9.6,very dissatisfied
+1230,Sha Tin,1,30-39,5,161,6.8,satisfied
+1231,Kwun Tong,0,30-39,3,94,7.5,neutral
+1232,Tsuen Wan,1,20-29,3,102,6.2,neutral
+1233,Sha Tin,1,20-29,1,42,10.1,satisfied
+1234,Mong Kok,1,40-49,2,69,11.2,neutral
+1235,Tsuen Wan,0,Under 20,2,106,4.6,satisfied
+1236,Tsuen Wan,0,20-29,2,69,5.5,satisfied
+1237,Causeway Bay,0,Under 20,2,56,10.5,dissatisfied
+1238,Kwun Tong,0,50 or over,2,75,7.6,dissatisfied
+1239,Causeway Bay,0,40-49,1,58,9.3,dissatisfied
+1240,Causeway Bay,1,20-29,1,41,7.4,satisfied
+1241,Tsuen Wan,0,40-49,1,30,,satisfied
+1242,Mong Kok,1,20-29,1,56,8.3,neutral
+1243,Mong Kok,0,30-39,1,34,9.4,dissatisfied
+1244,Mong Kok,0,30-39,1,39,8.4,dissatisfied
+1245,Mong Kok,0,50 or over,3,111,9.7,dissatisfied
+1246,Mong Kok,0,Under 20,2,67,10.2,dissatisfied
+1247,Mong Kok,1,20-29,1,64,7.7,very satisfied
+1248,Sha Tin,0,40-49,3,119,8.9,satisfied
+1249,Kwun Tong,0,Under 20,2,77,2.6,satisfied
+1250,Mong Kok,0,20-29,1,28,7.6,dissatisfied
+1251,Sha Tin,1,Under 20,1,31,2.9,very satisfied
+1252,Mong Kok,1,30-39,2,57,11.0,satisfied
+1253,Causeway Bay,0,20-29,2,75,,satisfied
+1254,Sha Tin,1,20-29,1,31,7.2,satisfied
+1255,Sha Tin,1,20-29,3,113,6.3,neutral
+1256,Tsuen Wan,1,40-49,4,137,9.6,neutral
+1257,Sha Tin,1,30-39,1,55,6.8,satisfied
+1258,Causeway Bay,1,30-39,2,60,7.2,satisfied
+1259,Mong Kok,1,Under 20,1,39,7.9,neutral
+1260,Kwun Tong,0,Under 20,2,78,7.3,satisfied
+1261,Tsuen Wan,0,40-49,2,79,9.1,satisfied
+1262,Sha Tin,1,20-29,1,33,7.4,neutral
+1263,Causeway Bay,0,40-49,4,127,10.9,satisfied
+1264,Sha Tin,1,20-29,2,83,6.5,neutral
+1265,Tsuen Wan,1,40-49,3,103,7.6,neutral
+1266,Kwun Tong,1,50 or over,2,75,5.8,very satisfied
+1267,Causeway Bay,0,30-39,2,72,7.7,satisfied
+1268,Causeway Bay,1,30-39,1,36,14.5,satisfied
+1269,Sha Tin,0,20-29,1,37,10.6,satisfied
+1270,Causeway Bay,0,50 or over,4,151,8.0,dissatisfied
+1271,Mong Kok,1,20-29,1,61,8.0,neutral
+1272,Mong Kok,1,20-29,1,27,9.5,neutral
+1273,Mong Kok,1,40-49,2,58,12.1,very dissatisfied
+1274,Kwun Tong,0,30-39,2,90,7.0,very satisfied
+1275,Kwun Tong,1,Under 20,2,83,2.5,satisfied
+1276,Tsuen Wan,0,Under 20,1,49,8.4,very satisfied
+1277,Causeway Bay,0,40-49,1,38,9.2,satisfied
+1278,Kwun Tong,0,40-49,2,83,10.9,satisfied
+1279,Mong Kok,0,20-29,1,50,10.1,dissatisfied
+1280,Kwun Tong,0,20-29,1,62,7.5,very satisfied
+1281,Sha Tin,1,20-29,3,110,,satisfied
+1282,Kwun Tong,1,50 or over,3,113,,dissatisfied
+1283,Mong Kok,1,50 or over,1,39,10.2,very satisfied
+1284,Sha Tin,1,Under 20,1,57,5.0,satisfied
+1285,Tsuen Wan,0,40-49,1,35,10.4,neutral
+1286,Causeway Bay,1,30-39,4,141,,neutral
+1287,Causeway Bay,0,20-29,2,58,8.9,neutral
+1288,Sha Tin,1,30-39,1,37,7.6,satisfied
+1289,Causeway Bay,0,20-29,1,62,7.8,neutral
+1290,Sha Tin,1,20-29,2,63,8.0,satisfied
+1291,Mong Kok,0,20-29,1,39,5.9,satisfied
+1292,Mong Kok,1,30-39,6,204,8.9,neutral
+1293,Mong Kok,1,Under 20,1,62,12.3,neutral
+1294,Mong Kok,1,30-39,2,66,12.5,dissatisfied
+1295,Sha Tin,1,20-29,1,32,4.7,very satisfied
+1296,Sha Tin,1,Under 20,1,32,12.5,neutral
+1297,Sha Tin,1,20-29,4,147,4.4,satisfied
+1298,Mong Kok,0,50 or over,2,68,,dissatisfied
+1299,Sha Tin,1,30-39,1,40,,neutral
+1300,Mong Kok,0,Under 20,1,29,9.8,satisfied
+1301,Mong Kok,0,40-49,1,53,7.7,neutral
+1302,Sha Tin,0,40-49,3,113,7.0,satisfied
+1303,Causeway Bay,0,30-39,2,69,8.8,neutral
+1304,Tsuen Wan,0,20-29,1,36,8.5,satisfied
+1305,Mong Kok,1,30-39,1,32,10.7,satisfied
+1306,Tsuen Wan,0,30-39,1,27,7.5,dissatisfied
+1307,Mong Kok,1,20-29,1,37,8.7,neutral
+1308,Causeway Bay,0,Under 20,1,34,10.9,satisfied
+1309,Sha Tin,1,20-29,2,76,7.7,very satisfied
+1310,Kwun Tong,1,30-39,1,40,9.0,neutral
+1311,Sha Tin,1,Under 20,1,32,8.4,satisfied
+1312,Sha Tin,1,30-39,3,93,7.5,dissatisfied
+1313,Tsuen Wan,1,40-49,2,75,7.0,satisfied
+1314,Causeway Bay,0,50 or over,1,35,6.5,satisfied
+1315,Sha Tin,1,50 or over,1,29,7.9,satisfied
+1316,Tsuen Wan,1,20-29,1,32,5.8,satisfied
+1317,Mong Kok,1,30-39,1,38,11.8,satisfied
+1318,Tsuen Wan,1,20-29,2,53,7.4,satisfied
+1319,Mong Kok,0,Under 20,1,58,9.9,neutral
+1320,Sha Tin,1,30-39,2,85,6.4,very satisfied
+1321,Causeway Bay,1,50 or over,4,134,6.6,neutral
+1322,Mong Kok,0,Under 20,1,40,9.8,dissatisfied
+1323,Causeway Bay,1,30-39,3,102,10.7,satisfied
+1324,Tsuen Wan,1,Under 20,3,91,9.8,dissatisfied
+1325,Tsuen Wan,1,20-29,1,54,6.2,satisfied
+1326,Tsuen Wan,1,50 or over,1,34,2.4,satisfied
+1327,Tsuen Wan,0,30-39,1,31,7.4,satisfied
+1328,Sha Tin,1,20-29,1,42,10.0,neutral
+1329,Mong Kok,1,30-39,3,116,8.5,neutral
+1330,Mong Kok,1,30-39,3,93,10.8,satisfied
+1331,Causeway Bay,1,20-29,1,32,10.1,neutral
+1332,Tsuen Wan,0,20-29,2,76,6.8,satisfied
+1333,Sha Tin,0,20-29,1,40,7.4,dissatisfied
+1334,Causeway Bay,0,40-49,1,38,5.0,satisfied
+1335,Causeway Bay,1,30-39,2,60,7.1,neutral
+1336,Sha Tin,1,20-29,2,59,5.6,satisfied
+1337,Causeway Bay,0,20-29,1,39,6.7,very dissatisfied
+1338,Sha Tin,0,20-29,1,32,6.4,satisfied
+1339,Sha Tin,1,20-29,3,111,6.5,satisfied
+1340,Tsuen Wan,1,50 or over,2,66,7.2,satisfied
+1341,Tsuen Wan,0,20-29,1,30,9.6,neutral
+1342,Causeway Bay,1,40-49,2,67,7.8,satisfied
+1343,Tsuen Wan,0,20-29,1,56,11.5,dissatisfied
+1344,Causeway Bay,1,20-29,2,69,4.1,very satisfied
+1345,Sha Tin,1,30-39,2,62,8.0,satisfied
+1346,Sha Tin,1,50 or over,1,28,11.2,neutral
+1347,Causeway Bay,0,40-49,1,29,11.1,neutral
+1348,Tsuen Wan,0,20-29,1,26,4.3,very satisfied
+1349,Causeway Bay,0,20-29,1,68,7.0,very satisfied
+1350,Kwun Tong,0,40-49,1,39,8.5,neutral
+1351,Kwun Tong,1,50 or over,3,90,,neutral
+1352,Kwun Tong,0,30-39,2,66,7.5,satisfied
+1353,Causeway Bay,0,20-29,2,66,10.8,satisfied
+1354,Tsuen Wan,1,30-39,3,108,6.6,neutral
+1355,Causeway Bay,1,40-49,3,94,8.9,very satisfied
+1356,Mong Kok,0,30-39,1,35,6.6,satisfied
+1357,Mong Kok,0,50 or over,1,67,12.7,very dissatisfied
+1358,Sha Tin,1,20-29,1,34,6.3,very satisfied
+1359,Kwun Tong,0,40-49,1,34,8.0,very satisfied
+1360,Causeway Bay,0,50 or over,1,32,6.5,very satisfied
+1361,Causeway Bay,0,30-39,2,67,7.4,neutral
+1362,Tsuen Wan,0,20-29,1,30,7.7,neutral
+1363,Tsuen Wan,1,20-29,1,29,5.9,neutral
+1364,Sha Tin,1,Under 20,1,28,10.1,satisfied
+1365,Causeway Bay,0,30-39,1,62,4.1,satisfied
+1366,Causeway Bay,0,20-29,1,39,8.4,neutral
+1367,Mong Kok,0,30-39,1,33,9.2,dissatisfied
+1368,Mong Kok,0,20-29,2,59,7.9,dissatisfied
+1369,Tsuen Wan,0,20-29,1,59,2.9,satisfied
+1370,Tsuen Wan,1,30-39,1,37,5.7,dissatisfied
+1371,Mong Kok,1,40-49,1,33,11.3,dissatisfied
+1372,Kwun Tong,1,40-49,2,64,9.5,neutral
+1373,Kwun Tong,0,50 or over,1,37,6.5,very satisfied
+1374,Kwun Tong,0,20-29,1,42,8.0,satisfied
+1375,Mong Kok,1,30-39,2,58,10.0,neutral
+1376,Sha Tin,1,20-29,2,101,9.9,neutral
+1377,Mong Kok,0,30-39,1,64,12.9,neutral
+1378,Sha Tin,1,20-29,1,27,4.0,very satisfied
+1379,Causeway Bay,1,20-29,4,137,10.5,satisfied
+1380,Mong Kok,0,20-29,2,68,6.5,neutral
+1381,Sha Tin,0,Under 20,1,37,9.7,dissatisfied
+1382,Mong Kok,1,30-39,1,39,11.0,satisfied
+1383,Tsuen Wan,1,20-29,1,30,5.8,neutral
+1384,Causeway Bay,0,50 or over,3,98,8.2,satisfied
+1385,Causeway Bay,0,50 or over,1,28,9.5,satisfied
+1386,Sha Tin,0,40-49,2,78,7.6,dissatisfied
+1387,Mong Kok,0,40-49,3,131,8.9,neutral
+1388,Kwun Tong,0,Under 20,1,29,5.9,neutral
+1389,Kwun Tong,0,Under 20,2,89,6.2,neutral
+1390,Causeway Bay,0,Under 20,1,39,10.5,satisfied
+1391,Mong Kok,0,30-39,1,46,4.8,satisfied
+1392,Mong Kok,0,30-39,1,64,6.7,satisfied
+1393,Mong Kok,0,20-29,2,58,10.1,neutral
+1394,Causeway Bay,1,20-29,1,42,5.2,very satisfied
+1395,Sha Tin,1,50 or over,4,128,5.9,very satisfied
+1396,Causeway Bay,0,30-39,1,27,7.9,neutral
+1397,Sha Tin,1,50 or over,1,37,6.5,very satisfied
+1398,Causeway Bay,0,40-49,1,47,3.5,satisfied
+1399,Causeway Bay,1,50 or over,2,79,8.3,very satisfied
+1400,Mong Kok,0,30-39,1,27,7.8,satisfied
+1401,Mong Kok,1,40-49,2,73,5.4,satisfied
+1402,Causeway Bay,1,30-39,3,96,9.6,satisfied
+1403,Causeway Bay,0,40-49,1,51,7.9,satisfied
+1404,Causeway Bay,1,Under 20,1,30,8.2,neutral
+1405,Sha Tin,0,20-29,1,26,11.1,dissatisfied
+1406,Mong Kok,0,30-39,1,30,12.8,dissatisfied
+1407,Sha Tin,1,20-29,2,66,10.9,neutral
+1408,Causeway Bay,0,20-29,1,38,5.3,satisfied
+1409,Mong Kok,0,50 or over,1,32,8.6,satisfied
+1410,Mong Kok,0,20-29,1,41,10.6,neutral
+1411,Causeway Bay,0,30-39,3,90,11.8,dissatisfied
+1412,Tsuen Wan,1,30-39,1,35,7.4,satisfied
+1413,Sha Tin,1,20-29,3,127,9.5,neutral
+1414,Sha Tin,0,20-29,2,67,6.9,satisfied
+1415,Sha Tin,1,Under 20,2,70,8.1,satisfied
+1416,Tsuen Wan,0,30-39,2,70,9.2,neutral
+1417,Sha Tin,1,20-29,1,31,7.2,very satisfied
+1418,Kwun Tong,0,30-39,1,30,9.0,dissatisfied
+1419,Causeway Bay,0,30-39,1,32,5.4,dissatisfied
+1420,Causeway Bay,0,20-29,1,32,11.5,neutral
