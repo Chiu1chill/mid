@@ -1,0 +1,1001 @@
+country,city,revisit,storeNum,pageViews,items,revenue,satisfaction
+China,Shanghai,0,37,5,28,38.04,very unsatisfied
+China,Beijing,0,235,2,13,127.84,very unsatisfied
+Australia,Melbourne,1,144,10,5,94.34,neutral
+India,Bhatinda,0,178,8,15,34.35,neutral
+India,Bhatinda,0,276,2,2,51.37,unsatisfied
+China,Beijing,0,357,2,2,21.87,very unsatisfied
+United Kingdom,London,1,468,10,0,0,satisfied
+China,Beijing,1,252,3,33,125.03,satisfied
+Australia,Perth,1,490,10,15,82.37,neutral
+India,Bhatinda,0,398,10,39,72.7,very satisfied
+Australia,Perth,0,562,10,35,42.75,satisfied
+China,Shenzhen,0,215,8,20,24.89,satisfied
+United States,Searcy,1,141,10,57,142.37,very satisfied
+China,Shanghai,0,7,10,13,199.02,neutral
+United States,New York,1,319,8,0,0,very satisfied
+China,Shanghai,0,534,5,13,109.98,neutral
+India,Bhatinda,0,313,10,54,8.53,very satisfied
+China,Shanghai,0,513,5,36,96.66,neutral
+Australia,Melbourne,1,316,5,40,189.24,very satisfied
+Canada,Halifax,0,209,5,12,84.25,very satisfied
+China,Beijing,0,431,5,37,80.25,unsatisfied
+India,Bhatinda,0,456,5,53,57.84,neutral
+China,Shanghai,0,542,8,21,58.06,unsatisfied
+India,Bhatinda,1,71,10,6,99.58,very satisfied
+Canada,Halifax,1,387,10,34,86.08,satisfied
+India,Bhatinda,0,561,8,1,80.46,very satisfied
+United Kingdom,London,1,313,10,12,324.86,satisfied
+Canada,Beamsville,1,43,8,26,70.97,very unsatisfied
+India,Bhatinda,0,588,8,34,84.34,unsatisfied
+Australia,Melbourne,0,26,10,62,85.79,satisfied
+Canada,Halifax,1,336,5,29,38.49,neutral
+United Kingdom,London,0,297,10,43,45.37,very satisfied
+Canada,Victoria,1,466,10,17,45.44,satisfied
+United States,Pulaski,1,15,3,24,25.41,very unsatisfied
+China,Shenzhen,1,64,5,49,324.86,very satisfied
+China,Shenzhen,0,25,3,7,50.44,satisfied
+United States,San Antonio,0,367,10,64,223,very satisfied
+Australia,Melbourne,1,471,2,56,21.59,neutral
+Canada,Halifax,1,282,2,12,49.87,neutral
+Australia,Melbourne,1,22,5,74,52.25,neutral
+Canada,Halifax,1,126,5,21,73.74,very satisfied
+Canada,Welland,1,279,2,28,355.86,very unsatisfied
+United States,Caledonia,1,313,10,24,96.48,unsatisfied
+United Kingdom,London,0,595,10,33,56.66,neutral
+Australia,Melbourne,0,166,3,20,96.72,satisfied
+Canada,Halifax,0,288,3,62,31.36,very satisfied
+Canada,Leamington,1,279,10,49,97.27,satisfied
+India,Bhatinda,0,87,10,41,170.87,satisfied
+India,Bhatinda,0,348,3,48,13.37,satisfied
+Canada,Edmonton,1,586,5,56,86.98,very unsatisfied
+China,Beijing,0,302,2,13,22.88,neutral
+China,Shanghai,1,151,5,40,181.86,very unsatisfied
+Canada,Edmonton,1,461,2,48,324.86,unsatisfied
+India,Delhi,0,564,10,22,57.31,satisfied
+United States,Poland,1,469,10,14,168.02,neutral
+India,Bhatinda,1,454,5,23,58.02,neutral
+Canada,Welland,1,514,2,43,171.32,satisfied
+Australia,Melbourne,1,588,8,18,68.03,unsatisfied
+Canada,Halifax,1,149,10,14,47.82,unsatisfied
+China,Shanghai,1,263,3,84,35.93,very satisfied
+Canada,Leamington,1,77,10,53,76.04,satisfied
+United States,Walton,0,332,5,23,78.26,satisfied
+Canada,Halifax,0,43,3,70,163.02,neutral
+Canada,Halifax,0,548,2,52,109.43,very unsatisfied
+China,Beijing,1,569,2,16,213.8,neutral
+Canada,Halifax,1,508,10,40,69.57,very unsatisfied
+China,Guangzhou,0,96,8,23,118.92,neutral
+China,Beijing,0,269,3,4,115.6,unsatisfied
+India,Bhatinda,0,10,5,33,40.91,very satisfied
+China,Beijing,1,279,10,2,374.86,neutral
+Canada,Victoria,1,152,2,0,0,neutral
+China,Shanghai,0,476,2,16,27.06,neutral
+China,Beijing,1,416,5,14,230.18,very satisfied
+Canada,Victoria,1,140,5,0,0,neutral
+India,Delhi,1,193,8,0,0,satisfied
+United Kingdom,London,1,572,10,26,227,very unsatisfied
+China,Guangzhou,0,489,10,60,13.17,satisfied
+Canada,Halifax,0,152,10,54,31.13,unsatisfied
+United States,Charlotte,1,338,5,0,0,unsatisfied
+China,Shenzhen,1,130,10,14,58.11,neutral
+United States,Stillwater,0,492,3,80,53.42,unsatisfied
+United States,Norwalk,1,266,5,55,223.86,very unsatisfied
+China,Beijing,1,470,10,10,160.17,neutral
+United States,Silver Spring,0,198,2,0,0,neutral
+India,Delhi,0,327,10,14,11.51,unsatisfied
+China,Beijing,0,176,8,42,40.03,neutral
+China,Shanghai,0,566,10,52,70.86,very satisfied
+United States,Seattle,1,15,5,26,28.84,very unsatisfied
+Canada,Halifax,1,401,5,0,0,satisfied
+United States,Elmwood Park,1,170,10,27,262.11,unsatisfied
+United States,Amarillo,1,20,5,65,93.21,satisfied
+Canada,Brockville,0,485,5,14,24.36,satisfied
+United States,Brick,1,10,5,56,118.05,very unsatisfied
+Australia,Adelaide,1,96,8,22,92.22,neutral
+India,Delhi,0,183,3,52,12.38,neutral
+Australia,Turramurra,0,568,10,4,115.5,unsatisfied
+United States,Dacula,0,405,10,33,77.05,neutral
+China,Beijing,0,231,5,0,0,neutral
+United States,Norfolk,1,505,3,5,231.49,satisfied
+Australia,Melbourne,1,25,10,42,32.94,very satisfied
+Canada,Halifax,1,497,2,15,89.54,satisfied
+China,Shenzhen,0,141,10,17,152.48,neutral
+United States,Loveland,0,212,3,14,19.19,unsatisfied
+Canada,Halifax,1,536,10,51,292.11,unsatisfied
+United Kingdom,London,1,137,3,0,0,unsatisfied
+Canada,Halifax,0,450,1,61,95.02,unsatisfied
+United States,Cape Canaveral,1,199,10,7,262.11,neutral
+China,Guangzhou,0,325,10,2,104,neutral
+United Kingdom,London,1,420,2,0,0,satisfied
+United States,Rochester,1,296,2,67,96.84,satisfied
+India,Mumbai,1,77,2,0,0,neutral
+United Kingdom,London,1,219,8,37,48.91,neutral
+United States,Wrangell,1,369,2,29,149.14,neutral
+United States,Bluffton,1,303,5,0,0,unsatisfied
+China,Guangzhou,1,461,5,4,176.99,satisfied
+Italy,Rome,1,557,10,22,248.89,very satisfied
+United Kingdom,London,1,234,5,40,151.93,satisfied
+China,Beijing,0,557,10,0,0,unsatisfied
+United Kingdom,London,1,322,2,8,134.35,neutral
+United Kingdom,London,1,302,2,3,99.86,neutral
+China,Shanghai,1,413,3,29,399.02,unsatisfied
+United Kingdom,London,1,63,5,34,184.09,neutral
+United Kingdom,London,1,547,2,0,0,unsatisfied
+India,Mumbai,1,477,10,39,68.44,unsatisfied
+Australia,Melbourne,0,468,8,39,141.25,unsatisfied
+Canada,Halifax,0,595,8,11,87.14,unsatisfied
+India,Mumbai,0,48,10,30,97.17,neutral
+China,Shenzhen,0,288,5,69,174.55,very satisfied
+United Kingdom,London,0,253,3,18,18.8,very satisfied
+Italy,Rome,1,55,10,34,237.34,satisfied
+United States,Arlington,1,287,10,4,140.07,very satisfied
+Canada,Halifax,1,28,10,37,179.48,very satisfied
+United States,Austin,0,330,2,21,58.82,neutral
+Canada,Saskatoon,1,136,8,32,137.72,unsatisfied
+United States,Rancho Cordova,0,109,8,3,56.77,satisfied
+Canada,Saskatoon,1,520,10,0,0,satisfied
+Italy,Rome,1,562,10,2,135.01,unsatisfied
+United States,Sneads Ferry,1,591,8,3,57.97,unsatisfied
+Canada,Welland,0,169,3,27,64.3,very satisfied
+Canada,Saskatoon,1,24,5,4,600.21,neutral
+United Kingdom,London,1,113,2,25,170.2,neutral
+Canada,Welland,1,44,2,16,459.05,neutral
+United States,Lansing,0,271,5,71,65.34,satisfied
+India,Mumbai,1,475,2,62,277.72,very unsatisfied
+United States,Staten Island,1,251,10,21,122.51,very satisfied
+United States,Silver Spring,0,235,10,12,67.92,neutral
+Italy,Rome,1,86,2,0,0,satisfied
+Canada,Welland,0,53,10,2,95.97,very satisfied
+United Kingdom,London,1,431,8,40,129.52,neutral
+Canada,Edmonton,1,444,8,47,56.89,very satisfied
+India,Delhi,1,290,8,12,600.21,neutral
+Italy,Rome,1,100,5,48,275.88,unsatisfied
+Canada,Victoria,1,451,10,0,0,neutral
+United States,Carrollton,0,166,10,21,49.37,neutral
+United Kingdom,London,1,231,10,30,45.54,very unsatisfied
+Canada,Victoria,1,79,5,0,0,neutral
+Canada,Beaumont,0,416,10,58,91.52,satisfied
+Australia,Sydney,1,324,8,9,94.81,very unsatisfied
+India,Delhi,0,188,3,42,198.91,neutral
+United States,Denver,0,500,10,1,105.13,very unsatisfied
+Australia,Sydney,1,145,10,25,103.37,very satisfied
+China,Guilin,0,167,10,23,47.1,satisfied
+Australia,Sydney,0,163,5,34,94.28,neutral
+Canada,Victoria,1,465,2,5,63.89,satisfied
+United States,Hillsdale,1,458,10,0,0,neutral
+China,Shanghai,1,326,8,23,226.17,very satisfied
+Australia,Sydney,0,230,10,38,35.31,neutral
+United States,Berkeley,1,182,10,13,277.72,neutral
+United States,Nashville,1,256,10,13,78.75,neutral
+China,Beijing,0,503,10,17,76.94,satisfied
+China,Guilin,0,275,10,39,80,very unsatisfied
+Australia,Sydney,1,51,5,7,99.7,very satisfied
+Australia,Perth,0,123,3,8,31.41,neutral
+United States,Sylvester,1,324,3,4,131.89,unsatisfied
+China,Shanghai,1,407,10,19,127.26,very satisfied
+Australia,Sydney,1,270,2,40,191,unsatisfied
+United States,Beacon,1,533,2,74,76.44,very unsatisfied
+China,Guilin,1,380,5,12,39.69,very unsatisfied
+Canada,Parksville,0,131,8,35,13.45,neutral
+China,Shanghai,1,440,10,3,23.34,very unsatisfied
+China,Guilin,1,208,10,50,137.23,very unsatisfied
+Australia,Perth,0,566,8,23,104.04,satisfied
+United Kingdom,York,1,583,2,22,23.31,neutral
+United States,Hingham,1,508,2,76,67.78,neutral
+Canada,Victoria,0,526,2,5,161.58,unsatisfied
+Canada,Parksville,1,143,10,73,65.7,unsatisfied
+United Kingdom,London,0,409,3,32,37.2,very satisfied
+United Kingdom,Southampton,1,505,3,57,140.5,unsatisfied
+United Kingdom,York,1,556,10,48,277.72,very unsatisfied
+Canada,Edmonton,1,37,5,55,173.66,unsatisfied
+India,Delhi,0,150,10,39,150.35,very satisfied
+Australia,Perth,0,475,10,0,0,very unsatisfied
+Canada,Welland,0,150,10,50,191.56,neutral
+Australia,Melbourne,0,295,10,1,10.43,very satisfied
+Canada,Halifax,0,230,10,19,109.87,neutral
+United States,Clovis,0,83,8,26,92.04,neutral
+Canada,Keswick,0,176,8,56,10.21,neutral
+China,Shanghai,1,454,10,36,86.81,neutral
+United States,Natick,1,406,10,23,567.72,satisfied
+Australia,Sydney,1,450,10,24,84.3,neutral
+China,Guilin,1,476,3,23,74.96,very satisfied
+United States,Urbana,1,351,10,2,92.98,satisfied
+China,Shenzhen,0,565,10,14,43.63,unsatisfied
+India,Delhi,0,365,5,37,216.63,neutral
+Australia,Perth,0,362,8,49,174.77,very satisfied
+United States,Brooklyn,1,36,2,29,140.3,neutral
+China,Shenzhen,0,112,10,39,78.84,satisfied
+Australia,Sydney,0,213,8,18,117.45,very satisfied
+United States,Oakes,1,93,10,58,93.82,neutral
+United States,San Francisco,1,164,10,13,153.15,satisfied
+Australia,Sydney,1,540,5,12,127.63,very satisfied
+United States,Portsmouth,1,397,8,29,100.77,neutral
+China,Tianjin,1,425,3,7,133.04,very satisfied
+United States,Freeport,0,168,2,10,103.12,neutral
+Australia,Merrylands,0,18,2,26,62.24,unsatisfied
+United States,Lebanon,1,319,3,13,146.31,very satisfied
+Australia,Sydney,0,499,10,12,25.78,neutral
+United States,Houston,1,558,3,26,44.43,very satisfied
+Australia,Sydney,1,360,10,29,58.54,very unsatisfied
+Canada,Regina,1,217,2,51,53.83,satisfied
+Australia,Dandenong,0,112,8,37,63.77,unsatisfied
+United States,Woodbridge,1,511,10,26,136.13,neutral
+China,Shanghai,1,514,10,37,40.09,unsatisfied
+United States,Seattle,1,442,3,52,30.45,very unsatisfied
+United States,Wichita,1,232,5,0,0,satisfied
+China,Shenzhen,0,400,10,31,4.95,very unsatisfied
+United States,Louisville,1,549,2,7,133.61,satisfied
+China,Tianjin,0,237,5,30,38.74,neutral
+United States,Aurora,1,488,8,7,194.44,unsatisfied
+Canada,Victoria,1,518,10,77,567.72,very unsatisfied
+Australia,Sydney,0,96,10,0,0,unsatisfied
+Canada,Beaumont,1,343,10,44,457.72,neutral
+China,Shenzhen,0,128,10,13,33.64,unsatisfied
+France,Nice,0,97,2,18,35.31,neutral
+China,Shenzhen,0,454,10,45,31.14,very satisfied
+Canada,Victoria,0,485,3,0,0,neutral
+France,Paris,1,498,10,2,61.87,unsatisfied
+United Kingdom,York,1,377,8,10,201.47,very satisfied
+Canada,Victoria,0,519,10,0,0,very unsatisfied
+India,Delhi,0,300,10,0,0,unsatisfied
+Canada,Cambridge,1,533,10,41,91.32,unsatisfied
+United States,Pasadena,0,545,10,33,34.38,unsatisfied
+India,Delhi,0,4,8,47,4.91,satisfied
+Canada,Victoria,0,124,10,25,24.11,unsatisfied
+China,Tianjin,0,67,10,65,91.72,unsatisfied
+United Kingdom,London,1,162,2,34,52.08,unsatisfied
+United States,Tustin,1,162,3,0,0,very unsatisfied
+India,Mumbai,0,42,10,50,20.88,satisfied
+China,Tianjin,1,38,10,36,80.88,unsatisfied
+France,Nice,1,378,3,10,125.27,satisfied
+France,Nice,1,122,10,34,86.19,neutral
+China,Tianjin,0,359,8,41,58.64,satisfied
+Australia,Canberra,0,52,5,12,65.16,neutral
+United States,Evansville,0,63,3,6,56.46,very unsatisfied
+India,Delhi,1,504,5,34,48.42,neutral
+India,Mumbai,0,566,2,30,85.71,unsatisfied
+Australia,Melbourne,0,359,10,25,134.4,satisfied
+Canada,Halifax,0,346,3,22,17.6,satisfied
+United States,Seattle,1,145,2,28,567.72,very unsatisfied
+China,Beijing,0,71,3,53,46.7,neutral
+Canada,Parksville,0,467,10,0,0,unsatisfied
+Australia,Adelaide,0,563,2,26,134.45,satisfied
+United States,Clovis,1,574,10,41,295.24,unsatisfied
+United Kingdom,York,1,102,5,49,41.72,very satisfied
+France,Lyon,0,542,5,8,80.85,satisfied
+France,Lyon,1,150,5,0,0,unsatisfied
+United States,Orlando,1,261,10,24,175.55,very satisfied
+China,Tianjin,0,475,2,0,0,unsatisfied
+India,Hyderabad,1,95,8,23,65.23,very satisfied
+Italy,Rome,1,361,10,11,68.93,very unsatisfied
+United Kingdom,York,1,406,5,44,167.69,satisfied
+United States,Seattle,1,365,10,0,0,very unsatisfied
+China,Shenzhen,1,402,8,30,45.61,neutral
+United States,New York,1,221,3,50,122.66,neutral
+France,Paris,1,285,2,0,0,satisfied
+United States,Tyler,1,52,10,15,567.72,neutral
+United States,Lagrange,0,305,8,0,0,very unsatisfied
+Australia,Sydney,1,467,5,0,0,very satisfied
+United States,New York,1,377,2,24,137.25,very unsatisfied
+Australia,Melbourne,1,173,8,50,67.74,very unsatisfied
+China,Shenzhen,0,199,10,34,157.45,very satisfied
+China,Shenzhen,1,412,5,0,0,unsatisfied
+Australia,Melbourne,0,147,3,49,39.33,very satisfied
+United States,New York,1,591,2,3,113.72,very unsatisfied
+Australia,Melbourne,1,344,10,4,54.63,very satisfied
+China,Shenzhen,0,214,10,16,30.26,unsatisfied
+China,Shenzhen,1,523,3,45,168.45,neutral
+United States,New York,1,229,10,0,0,satisfied
+China,Shenzhen,0,271,5,49,102.83,very satisfied
+France,Paris,1,557,10,0,0,very satisfied
+United States,Norman,1,371,10,57,99.39,very unsatisfied
+Canada,Parksville,1,447,10,46,474.21,very satisfied
+Canada,Ottawa,1,168,10,2,124.93,very unsatisfied
+Australia,Perth,1,230,1,52,567.72,satisfied
+Australia,Sydney,0,240,10,26,81.35,neutral
+Australia,Ultimo,1,82,10,9,93.11,unsatisfied
+France,Paris,1,500,10,34,457.72,very satisfied
+Australia,Hawthorn,0,14,10,54,76.49,satisfied
+Australia,Adelaide,1,26,2,5,567.72,satisfied
+Canada,Edmonton,0,22,10,6,137.12,satisfied
+India,Delhi,0,533,10,46,208.68,very unsatisfied
+Australia,Brisbane,1,196,3,6,148.1,neutral
+China,Tianjin,0,146,5,0,0,unsatisfied
+China,Shenzhen,1,353,5,42,520.36,neutral
+France,Paris,0,377,10,23,284.29,neutral
+India,Mumbai,0,436,5,28,38.4,very unsatisfied
+India,Bhatinda,1,580,10,36,157.28,satisfied
+Canada,Edmonton,0,173,2,35,161.79,satisfied
+Australia,Melbourne,1,192,8,16,520.36,very satisfied
+China,Shenzhen,1,89,3,23,23.81,unsatisfied
+Australia,Sydney,0,552,3,60,215.67,unsatisfied
+China,Zhuhai,0,246,10,55,57.53,very unsatisfied
+United States,Killeen,1,289,10,24,273.69,very satisfied
+China,Zhuhai,0,263,5,37,54.31,neutral
+India,Bhatinda,1,162,10,27,153.38,unsatisfied
+France,Paris,0,132,5,57,147.27,neutral
+United Kingdom,York,1,118,10,2,112.52,neutral
+Australia,Melbourne,1,178,10,44,212.89,very satisfied
+United States,Bemidji,1,588,2,3,131.7,satisfied
+Australia,Sydney,1,254,5,40,195.46,very satisfied
+United States,Fort Smith,1,352,3,53,93.74,very satisfied
+China,Guangzhou,0,381,10,12,75.68,very satisfied
+China,Zhuhai,1,92,10,31,253.85,very satisfied
+United States,Largo,1,327,3,28,215.55,satisfied
+Canada,Victoria,0,489,10,3,96.97,very satisfied
+Australia,Canberra,1,247,8,11,88.71,very satisfied
+India,Guntur,0,1,5,23,77.69,unsatisfied
+Australia,Perth,0,38,10,19,176.84,satisfied
+India,Bhatinda,0,213,5,12,57.21,very satisfied
+Canada,Victoria,1,161,8,46,127.2,satisfied
+United States,Grand Haven,1,415,3,0,0,unsatisfied
+United Kingdom,London,1,245,2,18,185.52,very satisfied
+Canada,Parksville,1,294,3,27,56.79,very unsatisfied
+United States,New York,0,28,3,30,90.69,very unsatisfied
+Canada,Parksville,1,179,5,26,157.55,satisfied
+Canada,Saskatoon,1,0,8,42,320.36,very satisfied
+China,Zhuhai,0,427,5,60,55.67,very satisfied
+India,Bhatinda,0,364,8,8,47.19,unsatisfied
+China,Shenzhen,0,144,10,0,0,unsatisfied
+Canada,Saskatoon,1,381,3,7,211.63,satisfied
+India,Bhatinda,1,224,10,40,229.7,very unsatisfied
+China,Guangzhou,0,297,10,24,81.53,satisfied
+United States,Beaverton,0,46,10,17,95.15,unsatisfied
+China,Wuhan,0,291,10,53,101.47,very satisfied
+China,Shenzhen,0,68,2,6,45.08,very unsatisfied
+United States,Newark,0,318,2,21,36.34,neutral
+Italy,Rome,0,544,10,16,94.99,satisfied
+China,Shenzhen,1,249,2,27,57.96,neutral
+India,Mumbai,0,45,2,11,83.18,unsatisfied
+United States,Phoenix,1,358,2,0,0,neutral
+Canada,Saskatoon,1,371,8,51,83.57,very satisfied
+China,Wuhan,0,57,3,0,0,unsatisfied
+China,Shenzhen,1,360,10,32,245.2,satisfied
+Italy,Turin,1,33,5,2,130.55,unsatisfied
+United States,Des Plaines,1,502,2,60,105.04,unsatisfied
+China,Shenzhen,1,193,8,0,0,neutral
+France,Paris,1,307,10,13,350.36,neutral
+United States,Woodland Hills,0,543,8,8,61.96,unsatisfied
+Australia,Sydney,1,391,3,10,37.15,satisfied
+United States,East Aurora,1,141,5,35,79.19,very satisfied
+Australia,Sydney,0,127,10,3,62.13,satisfied
+United States,Westchester,0,387,10,6,238.95,satisfied
+China,Beijing,1,412,5,0,0,unsatisfied
+United States,Huntingdon Valley,1,578,3,4,26.94,neutral
+Australia,Sydney,1,61,10,34,28.56,unsatisfied
+China,Shenzhen,0,506,10,77,144.67,very unsatisfied
+Australia,Sydney,1,96,8,44,18.17,unsatisfied
+France,Paris,1,508,10,0,0,very unsatisfied
+United States,Pasco,1,339,10,20,222.8,unsatisfied
+United States,Bakersfield,0,276,2,20,139.7,unsatisfied
+China,Shenzhen,1,504,8,44,103.29,unsatisfied
+United States,Grand Rapids,0,40,3,8,129.97,satisfied
+China,Shenzhen,0,510,10,50,109.77,very satisfied
+China,Shenzhen,0,434,10,4,35.41,unsatisfied
+United Kingdom,York,0,502,3,3,56.65,very unsatisfied
+United States,West Grove,1,132,5,0,0,very satisfied
+China,Guangzhou,1,124,5,13,62.82,satisfied
+Canada,Edmonton,0,405,10,7,6.36,unsatisfied
+France,Lyon,1,507,8,9,238.46,satisfied
+India,Delhi,1,246,8,57,285.85,unsatisfied
+Australia,Melbourne,0,417,5,0,0,neutral
+United States,New York,1,166,10,0,0,very satisfied
+United States,Covington,0,545,2,58,68.31,neutral
+United States,New York,1,425,8,49,127.55,satisfied
+United States,Toney,1,199,10,29,162.5,neutral
+United States,New York,0,69,5,5,109.52,very unsatisfied
+United States,Glen Burnie,0,23,3,43,84.03,very satisfied
+China,Guangzhou,1,106,5,40,45.68,neutral
+United States,Madison,1,39,10,10,244.83,very unsatisfied
+United States,North Fort Myers,1,38,10,9,169.57,unsatisfied
+Canada,Kuujjuaq,0,420,10,55,137.49,unsatisfied
+China,Guangzhou,1,578,2,14,189.76,very unsatisfied
+Australia,Melbourne,1,16,10,56,89.32,satisfied
+United States,Easton,1,508,5,50,241.55,neutral
+United States,Wellsville,1,565,10,45,67.56,satisfied
+Australia,Pascoe Vale,0,121,8,3,170.55,unsatisfied
+China,Shenzhen,0,243,2,28,60.95,unsatisfied
+United States,Hyattsville,1,458,2,55,125.79,satisfied
+United Kingdom,Andover,0,551,5,12,188.45,unsatisfied
+India,Delhi,0,545,3,22,2.67,unsatisfied
+Australia,Perth,1,77,10,5,72.44,unsatisfied
+Canada,Victoria,0,506,3,32,90.96,very satisfied
+United States,Ferndale,1,437,10,39,178.83,very satisfied
+United States,Hightstown,1,282,3,6,131.91,very satisfied
+France,Paris,0,483,10,17,198.3,unsatisfied
+United States,Grosse Pointe,1,524,3,42,210.39,very unsatisfied
+Canada,Kuujjuaq,1,385,10,4,162.94,satisfied
+Canada,Edmonton,1,567,10,6,236.63,unsatisfied
+India,New Delhi,1,567,3,53,84.73,satisfied
+China,Shenzhen,1,448,3,5,111.39,satisfied
+United States,Round Rock,1,476,3,30,77.53,satisfied
+France,Paris,0,296,8,20,13.29,very satisfied
+Canada,Edmonton,1,582,3,5,135.16,very satisfied
+Canada,Kuujjuaq,0,178,10,38,99.61,very satisfied
+Canada,Toronto,0,218,3,51,79.17,unsatisfied
+Canada,Toronto,1,276,2,22,168.28,unsatisfied
+United States,Saint Louis,1,308,2,36,205.37,unsatisfied
+Canada,Port Perry,1,550,2,81,29.76,very unsatisfied
+France,Nice,1,89,3,46,47.3,unsatisfied
+Canada,Saskatoon,1,576,3,42,57.33,very unsatisfied
+United States,Owatonna,1,42,10,41,46.29,very satisfied
+United States,Stone Mountain,1,97,10,27,34.56,unsatisfied
+China,Shenzhen,0,1,5,78,3.52,satisfied
+United Kingdom,Olney,1,89,10,59,51.25,satisfied
+Canada,Kuujjuaq,0,38,5,2,9.8,very satisfied
+United States,Manitowoc,1,18,5,27,179.54,unsatisfied
+Canada,Parksville,1,492,3,31,353.7,unsatisfied
+United States,Oklahoma City,1,474,8,64,85.18,very unsatisfied
+India,Delhi,1,467,8,41,257.54,unsatisfied
+United States,Lagrangeville,1,486,2,8,131.15,satisfied
+China,Guangzhou,0,164,8,18,62.16,very unsatisfied
+China,Shenzhen,0,354,10,64,93.17,very satisfied
+China,Beijing,0,127,2,49,177.27,very satisfied
+Canada,Kuujjuaq,0,32,10,38,140.25,very satisfied
+United States,New Washington,1,7,5,61,248,very unsatisfied
+India,Chennai,0,160,3,22,50.77,satisfied
+China,Shenzhen,0,1,8,41,50.5,satisfied
+China,Guangzhou,0,337,5,33,47.67,very satisfied
+Canada,Saskatoon,1,455,2,4,69.88,neutral
+China,Beijing,0,172,3,43,30.02,unsatisfied
+United Kingdom,York,1,137,8,60,161.26,neutral
+China,Beijing,0,388,3,66,138.35,very satisfied
+United States,Moriches,1,77,3,64,66.28,neutral
+United States,Bel Air,1,151,2,12,102.54,unsatisfied
+India,Bhatinda,0,95,10,45,59.92,satisfied
+China,Guangzhou,0,187,3,7,76.86,unsatisfied
+United States,Greenville,1,64,10,61,177.98,unsatisfied
+China,Wuhan,1,415,5,0,0,very satisfied
+United States,San Francisco,1,84,2,19,276.68,satisfied
+United Kingdom,Feltham,1,25,3,30,124.86,very unsatisfied
+United States,Jersey City,1,568,10,13,50.15,neutral
+China,Guangzhou,0,332,2,20,49.34,very unsatisfied
+United States,Longmont,1,174,10,0,0,neutral
+China,Shanghai,0,136,8,34,73.34,very unsatisfied
+United States,Elizabeth,1,445,8,12,90.26,neutral
+United States,Midlothian,1,151,8,68,209.17,unsatisfied
+China,Guangzhou,0,344,2,70,163.01,satisfied
+United States,Syracuse,1,217,10,29,30.9,very satisfied
+United States,Sheridan,0,210,3,2,96.04,neutral
+India,Bhatinda,0,533,8,4,129.64,very unsatisfied
+Australia,West Hoxton,1,117,8,18,132.11,very unsatisfied
+France,Lyon,0,151,10,12,0.14,unsatisfied
+Canada,Edmonton,0,557,5,0,0,unsatisfied
+Canada,Burlington,0,479,10,55,161.25,unsatisfied
+France,Lyon,1,381,10,25,143.52,very unsatisfied
+Canada,Edmonton,1,564,3,73,208.91,very unsatisfied
+Canada,Victoria,0,367,10,4,24.91,neutral
+United States,New Albany,1,445,10,0,0,very satisfied
+France,Lyon,0,328,8,36,124.02,unsatisfied
+Canada,Toronto,1,278,8,12,71.17,very unsatisfied
+China,Beijing,0,2,10,56,62.52,satisfied
+Italy,Rome,1,214,10,0,0,very satisfied
+France,Lyon,1,257,8,64,258.93,very unsatisfied
+Canada,Victoria,1,72,8,6,171.59,very satisfied
+United States,Davenport,1,307,5,27,243.47,very satisfied
+France,Paris,1,455,5,13,191.9,very unsatisfied
+United States,Methuen,1,560,5,54,170.81,very unsatisfied
+Italy,Rome,1,256,2,54,165.65,very unsatisfied
+Canada,Hamilton,1,554,10,42,81.69,neutral
+United States,Dallas,1,515,10,23,187.47,unsatisfied
+France,Paris,1,441,2,14,248.29,satisfied
+United States,Mckinney,1,565,2,32,166.98,very satisfied
+Australia,West Hoxton,0,261,5,11,95.67,very satisfied
+Australia,South Morang,1,26,10,0,0,very satisfied
+Australia,Sydney,0,387,2,9,12.33,neutral
+United States,Rochester,1,129,3,1,81.98,neutral
+France,Lyon,0,59,8,5,72.47,satisfied
+India,Mumbai,0,440,2,36,99.25,satisfied
+Canada,Parksville,1,136,5,10,142.11,neutral
+United States,Augusta,0,38,5,5,43.74,neutral
+Australia,Adelaide,0,388,10,1,1.59,very satisfied
+China,Wuhan,0,5,10,8,6.29,very satisfied
+United States,Shippenville,0,463,5,0,0,unsatisfied
+Canada,Kuujjuaq,1,84,10,0,0,satisfied
+Canada,Edmonton,1,187,10,20,45.53,unsatisfied
+France,Paris,1,474,5,79,132.05,very unsatisfied
+United States,Douglasville,0,7,5,73,73.28,unsatisfied
+United States,Loves Park,1,235,8,7,182.28,neutral
+United States,Salt Lake City,0,322,3,21,63.44,unsatisfied
+France,Paris,0,160,8,35,11.7,neutral
+Italy,Rome,1,300,10,62,131.41,very satisfied
+United States,Massapequa,1,549,2,14,168.71,very unsatisfied
+Canada,Victoria,0,175,2,51,95.47,very satisfied
+United States,Palatka,0,474,8,1,70.31,satisfied
+Canada,Kuujjuaq,0,340,10,7,37.84,very unsatisfied
+Canada,Saskatoon,0,449,5,90,108.77,unsatisfied
+United States,Silver Spring,1,345,10,0,0,neutral
+China,Shenzhen,0,28,2,6,62.01,satisfied
+United States,Lawrenceville,1,237,8,91,166.73,very satisfied
+France,Paris,1,207,10,93,168.69,very unsatisfied
+United States,Saint Marys,1,394,10,76,96.76,satisfied
+Canada,Victoria,1,254,2,21,194.02,very satisfied
+Canada,Saskatoon,1,413,10,6,214.26,very satisfied
+China,Guangzhou,1,145,2,23,273.69,neutral
+Canada,Parksville,1,17,5,54,97.8,very satisfied
+United States,Cambridge,1,317,5,0,0,neutral
+Australia,Brisbane,1,320,5,60,57.33,satisfied
+Australia,Toowoomba,0,519,10,36,149.81,satisfied
+United States,Mount Prospect,1,483,3,102,44.23,neutral
+Italy,Rome,1,43,8,12,154.36,satisfied
+United States,Hillsville,1,482,5,36,69.76,satisfied
+Canada,Regina,1,55,2,23,123.34,very unsatisfied
+United States,Newberg,1,232,8,24,137.32,very satisfied
+India,Mumbai,0,261,8,0,0,very satisfied
+Canada,Victoria,1,306,10,82,94.26,neutral
+Italy,Rome,1,105,5,0,0,very unsatisfied
+India,Mumbai,1,226,10,46,165.74,satisfied
+China,Guangzhou,0,165,8,37,86.81,very satisfied
+United States,Wixom,0,260,10,0,0,unsatisfied
+Canada,Saskatoon,1,139,10,13,133.2,unsatisfied
+Italy,Rome,1,541,10,66,229.57,very unsatisfied
+France,Paris,1,416,5,66,172,unsatisfied
+United States,Rolla,1,232,5,0,0,satisfied
+Italy,Rome,1,407,10,2,167.46,neutral
+United States,Dothan,1,125,10,34,108.8,very satisfied
+India,Mumbai,0,43,10,80,66.3,very unsatisfied
+United States,Bolingbrook,0,254,10,1,51.5,neutral
+Australia,Sydney,1,370,5,68,166.28,unsatisfied
+United States,Dunbar,0,95,10,60,73.98,very satisfied
+France,Paris,0,284,3,0,0,satisfied
+Italy,Rome,1,64,10,12,368.9,satisfied
+United States,Washington,0,114,3,21,105.52,very unsatisfied
+United States,Yorba Linda,0,214,10,11,46.76,unsatisfied
+United States,Wyckoff,0,307,8,45,60.15,satisfied
+Canada,Fort Mcmurray,1,10,3,1,180.3,satisfied
+Canada,Sherwood Park,1,543,2,0,0,neutral
+United States,Brooklyn,1,500,10,75,315.53,very unsatisfied
+India,Delhi,1,9,8,51,176.67,satisfied
+United States,Tempe,1,103,2,58,143.02,satisfied
+France,Paris,1,329,3,0,0,neutral
+United States,Atlanta,0,74,3,53,100.52,satisfied
+India,Mumbai,0,347,5,27,50.98,unsatisfied
+United States,Rochester,1,213,10,79,144.22,neutral
+Australia,Brisbane,0,170,10,0,0,unsatisfied
+Canada,Victoria,0,393,10,60,56.95,neutral
+France,Paris,1,471,8,30,66.94,unsatisfied
+United States,Greensboro,0,187,2,42,88.04,unsatisfied
+United States,Hackensack,0,530,10,36,77.53,satisfied
+Australia,Brisbane,1,106,10,53,158.86,unsatisfied
+United States,North Miami Beach,0,21,8,16,64.97,very satisfied
+France,Lyon,1,14,2,84,224.95,very satisfied
+Canada,Edmonton,0,20,3,25,75.46,neutral
+Australia,Melbourne,0,380,5,42,78.52,unsatisfied
+France,Paris,1,265,5,32,33.11,satisfied
+France,Lyon,1,554,10,30,130.45,satisfied
+Australia,Sydney,1,363,3,37,217.26,satisfied
+Canada,Saskatoon,1,77,10,8,143.94,unsatisfied
+Australia,Prahran,1,42,2,17,167.58,unsatisfied
+Canada,Toronto,1,291,3,37,211.22,satisfied
+Australia,Sydney,1,156,10,77,91.19,very satisfied
+United Kingdom,London,1,85,8,64,233.73,unsatisfied
+Canada,Parksville,1,34,10,1,371.31,very satisfied
+United States,Abilene,1,234,5,2,366.05,unsatisfied
+India,Mumbai,0,220,10,34,136,unsatisfied
+Canada,Saskatoon,0,274,3,34,25.16,very satisfied
+United States,Milton,1,166,2,10,156.09,satisfied
+Canada,Victoria,1,244,8,34,140.62,very unsatisfied
+United Kingdom,London,1,180,2,48,66.57,neutral
+United States,New York,1,25,2,33,346.54,satisfied
+France,Paris,1,68,5,4,127.09,satisfied
+Canada,Burlington,0,316,3,90,137.4,neutral
+China,Guilin,0,97,10,76,64.99,unsatisfied
+France,Paris,1,502,8,36,124.01,neutral
+Canada,Victoria,1,334,10,69,203.12,very unsatisfied
+United States,Los Angeles,1,439,5,7,147.91,satisfied
+Italy,Rome,0,92,5,23,67.54,neutral
+Canada,Burlington,1,440,10,38,97.38,neutral
+United States,Oregon,0,31,10,6,135.32,very satisfied
+United States,Duluth,0,436,5,45,12.81,satisfied
+Canada,Sarnia,1,484,8,63,171.41,very satisfied
+Canada,Hamilton,0,74,10,61,35.41,very unsatisfied
+United States,Carrboro,0,582,5,132,93.29,very satisfied
+Canada,Victoria,0,99,2,0,0,very satisfied
+France,Lyon,0,448,10,28,95.55,unsatisfied
+United States,Stafford,1,369,2,52,155.47,unsatisfied
+Italy,Rome,1,576,5,53,198.74,very unsatisfied
+United States,Las Vegas,1,189,9,0,0,unsatisfied
+Canada,Burlington,1,188,10,62,365.2,satisfied
+Canada,Victoria,1,96,3,74,133.07,very satisfied
+United Kingdom,London,0,256,9,71,119.08,unsatisfied
+Italy,Rome,0,276,2,35,92.82,neutral
+Australia,Sydney,0,26,2,50,145.23,very satisfied
+United States,Palatine,1,357,5,18,193.56,unsatisfied
+Italy,Turin,0,488,3,44,21.16,unsatisfied
+Canada,Burlington,1,466,10,0,0,very satisfied
+United States,Clayton,1,574,3,60,40.8,satisfied
+France,Lyon,1,343,2,23,187.63,satisfied
+Canada,Victoria,1,450,8,57,203.56,very satisfied
+United States,Muskegon,1,362,2,70,78.92,neutral
+France,Lyon,0,416,8,66,34.71,very satisfied
+Canada,Saskatoon,1,68,10,72,193.63,satisfied
+Australia,Brisbane,1,310,8,18,28.05,very unsatisfied
+United Kingdom,London,0,89,3,0,0,very unsatisfied
+Canada,Hamilton,1,394,8,42,233.06,very unsatisfied
+China,Shenzhen,1,390,8,21,162.06,neutral
+Canada,Hamilton,0,219,3,81,28.52,satisfied
+Canada,Victoria,0,151,3,39,91.62,unsatisfied
+Canada,Victoria,1,483,2,57,147.41,neutral
+United States,Denver,1,262,8,0,0,very unsatisfied
+Canada,Richmond,1,50,10,18,160.7,satisfied
+United States,Haxtun,1,90,3,19,123.42,unsatisfied
+Australia,Brisbane,0,9,3,39,98.69,very satisfied
+Canada,Victoria,0,495,10,52,27.55,satisfied
+United States,Denver,1,33,2,6,66.66,neutral
+Australia,Brisbane,1,455,10,82,306.9,neutral
+United Kingdom,York,0,121,5,33,25.39,neutral
+Australia,Wodonga,1,392,10,68,109.88,very unsatisfied
+United States,Albany,1,487,10,55,27.68,unsatisfied
+United States,New York,0,33,2,51,210.06,satisfied
+France,Paris,0,445,5,67,51.47,unsatisfied
+Canada,Moncton,1,425,10,28,58.18,unsatisfied
+Canada,Victoria,1,95,10,69,203.07,unsatisfied
+United States,Raleigh,1,359,10,0,0,satisfied
+Canada,Victoria,1,278,5,45,188.56,neutral
+Canada,Victoria,0,290,10,20,79.86,very satisfied
+United States,Wells,1,131,2,72,298.86,satisfied
+Canada,Port Perry,0,311,2,0,0,unsatisfied
+Canada,Victoria,1,496,5,0,0,unsatisfied
+Canada,Hamilton,1,15,2,27,67.97,very satisfied
+United States,Frankfort,0,280,10,9,130.44,neutral
+Canada,Moncton,1,574,2,67,105.28,satisfied
+France,Paris,1,121,10,17,377.71,unsatisfied
+United States,Haiku,1,280,3,29,199.67,satisfied
+France,Paris,0,443,2,25,122.36,very unsatisfied
+Canada,Moncton,0,422,10,24,198.5,neutral
+France,Paris,1,404,8,82,455.32,satisfied
+United States,Granby,1,490,5,50,215.27,neutral
+Italy,Rome,0,323,5,35,231.98,satisfied
+Canada,Port Perry,0,79,3,10,152.23,very satisfied
+France,Paris,0,175,10,10,26.77,unsatisfied
+Australia,Sydney,1,454,10,56,111.15,unsatisfied
+United States,Fort Worth,1,426,10,18,348.02,satisfied
+France,Paris,0,187,10,67,165.8,very unsatisfied
+United States,Summerville,1,79,10,37,37.5,unsatisfied
+United Kingdom,Oxford,0,575,3,79,24.47,unsatisfied
+United States,Norristown,1,595,10,50,121.64,neutral
+Canada,Vancouver,0,279,5,17,42.63,very satisfied
+United States,Garland,1,581,10,26,160.16,satisfied
+China,Guangzhou,0,452,10,56,114.86,very satisfied
+United States,Ladera Ranch,1,430,10,24,190.58,very unsatisfied
+Canada,North Vancouver,1,295,10,29,158.79,unsatisfied
+United States,Wichita,1,66,10,60,310.83,very satisfied
+Australia,Sydney,0,333,2,42,74.22,neutral
+United States,New York,1,154,5,76,117.6,unsatisfied
+Australia,Sydney,1,401,10,65,106,satisfied
+United States,New York,1,599,8,74,91.82,very satisfied
+Canada,Edmonton,0,173,2,59,54.89,very satisfied
+United States,Corpus Christi,0,405,3,28,200.36,neutral
+China,Guangzhou,1,239,5,25,209.95,unsatisfied
+United States,Arvada,1,529,10,16,147.7,very satisfied
+Italy,Turin,1,289,10,25,131,very satisfied
+United States,Tucson,0,427,10,7,76.54,very satisfied
+United Kingdom,Oxford,1,514,8,68,103.5,unsatisfied
+France,Lyon,1,352,10,9,124.12,satisfied
+United States,Yukon,1,346,10,23,106.92,satisfied
+Canada,Montreal,1,83,10,63,235.41,satisfied
+Canada,Toronto,0,410,3,80,105.81,very unsatisfied
+China,Beijing,0,371,10,79,21.16,very unsatisfied
+Italy,Rome,1,55,8,78,261.25,satisfied
+Canada,Toronto,1,7,8,20,176.82,satisfied
+Australia,Perth,1,159,8,40,200.78,very unsatisfied
+United States,Baltimore,1,460,5,22,192.61,unsatisfied
+China,Beijing,1,198,10,85,297.33,neutral
+United States,Glens Falls,1,332,5,72,137.03,neutral
+United States,Harrisburg,1,62,5,12,69.33,neutral
+United States,Dayton,1,284,10,16,142.83,satisfied
+Canada,Ottawa,1,599,10,0,0,unsatisfied
+United States,Yaphank,1,294,8,20,150.55,unsatisfied
+Canada,Hamilton,1,179,5,13,96.03,satisfied
+United States,Nashville,1,110,8,23,71.63,unsatisfied
+Canada,Toronto,0,571,10,29,132.83,very satisfied
+United States,Peoria,1,350,2,14,53.47,unsatisfied
+United States,Highland Park,0,448,10,15,157.7,very satisfied
+Canada,Toronto,0,526,5,14,39.88,unsatisfied
+United States,Fort Lauderdale,1,308,3,0,0,very unsatisfied
+Canada,Parksville,0,44,10,41,125.81,very satisfied
+United Kingdom,York,1,528,10,18,164.33,satisfied
+United States,Valencia,1,109,5,0,0,satisfied
+United States,Jonesboro,1,251,2,26,303.89,very unsatisfied
+Canada,Moncton,1,522,8,25,323.45,satisfied
+United Kingdom,York,1,45,10,0,0,very satisfied
+China,Shenzhen,1,216,2,18,30.27,neutral
+United States,Miami,1,103,10,68,166.5,unsatisfied
+United States,Manchester,1,315,10,33,49.1,very satisfied
+China,Guangzhou,1,261,5,37,223.94,unsatisfied
+United States,Salt Lake City,1,497,10,6,81.75,very satisfied
+Canada,Vancouver,1,298,10,0,0,very satisfied
+India,Chennai,1,276,10,35,24.62,very unsatisfied
+United States,Maryville,1,88,5,0,0,satisfied
+United States,Rindge,1,274,5,56,205.44,very unsatisfied
+United States,Grasonville,1,529,10,46,101.23,very satisfied
+China,Guangzhou,0,189,5,64,155.22,unsatisfied
+United States,Oklahoma City,0,135,10,78,31.76,neutral
+United States,Milwaukee,1,487,10,45,124.45,very satisfied
+United States,Beatrice,1,55,8,0,0,very satisfied
+Australia,Sydney,1,130,10,0,0,very satisfied
+United States,Ardmore,0,499,10,32,56.06,very unsatisfied
+United States,Charlottesville,0,132,10,40,106.78,very unsatisfied
+India,Hyderabad,1,16,5,72,101.64,very unsatisfied
+United States,Florence,1,461,2,6,147.59,satisfied
+United States,Newton,0,580,10,99,38.74,unsatisfied
+United States,Mooresville,0,286,9,65,138.13,very unsatisfied
+United States,Wellington,0,52,2,13,55.61,very unsatisfied
+China,Guangzhou,0,354,10,0,0,very satisfied
+United States,Plymouth,0,187,5,63,154.17,very satisfied
+United States,Hazelwood,0,543,10,64,72.94,very unsatisfied
+France,Paris,0,364,9,84,29.17,satisfied
+Australia,Brisbane,1,307,8,31,230.87,very satisfied
+Canada,Moncton,1,5,2,28,123.27,neutral
+United States,New York,1,289,5,7,88.42,satisfied
+United States,Horn Lake,1,128,5,2,188.42,very unsatisfied
+Australia,Hobart,1,265,3,17,87.61,satisfied
+United States,Broomfield,1,543,5,58,181.62,very satisfied
+Canada,Saskatoon,1,550,10,47,51.88,neutral
+United Kingdom,York,1,171,3,41,55.93,neutral
+United Kingdom,Oxford,1,112,3,55,116.09,very unsatisfied
+Canada,Parksville,1,349,3,21,119.4,very satisfied
+Canada,Vancouver,0,266,3,45,144.94,neutral
+United States,Utica,0,94,5,25,97.12,neutral
+Canada,Alliston,1,561,10,76,54.37,satisfied
+France,Paris,1,138,5,69,134.23,unsatisfied
+United States,Wasilla,1,390,3,65,76.92,very unsatisfied
+United Kingdom,Oxford,1,51,3,23,43.63,neutral
+Canada,Parksville,1,399,10,71,206.51,unsatisfied
+Italy,Rome,0,81,2,70,54.45,very satisfied
+France,Lyon,0,315,10,88,43.33,neutral
+United States,Hightstown,1,531,10,17,157.68,very satisfied
+United Kingdom,Oxford,1,61,10,12,120.04,satisfied
+Italy,Turin,1,533,10,29,179.89,unsatisfied
+United Kingdom,York,1,384,10,26,94.32,neutral
+United Kingdom,London,1,319,3,42,20.65,very unsatisfied
+Italy,Udine,1,340,2,18,35.17,satisfied
+United Kingdom,Edinburgh,1,188,10,17,248.64,very unsatisfied
+Italy,Rome,1,22,10,50,33.99,neutral
+United Kingdom,York,1,408,8,16,247.98,very satisfied
+Canada,Parksville,1,174,3,9,108.65,very satisfied
+United States,Wauseon,1,491,5,6,183.65,unsatisfied
+United Kingdom,York,1,288,8,10,39.1,neutral
+China,Beijing,0,152,5,50,139.77,unsatisfied
+United States,Norwich,1,461,10,9,54.48,very satisfied
+Canada,Parksville,1,163,10,25,103.15,very unsatisfied
+China,Beijing,0,352,5,11,110.21,unsatisfied
+Italy,Rome,0,174,8,0,0,very unsatisfied
+Italy,Turin,1,405,10,74,128.04,neutral
+United States,Bakersfield,1,58,5,84,306.28,neutral
+United States,Belmont,1,552,10,52,117.43,very unsatisfied
+Italy,Turin,1,334,8,21,118.69,neutral
+United States,New York,0,62,3,4,77.28,very unsatisfied
+United States,Corona,1,446,5,16,137.61,satisfied
+United States,Shepherdsville,1,455,5,34,42.97,satisfied
+United States,Sugar Land,1,504,3,47,78.34,satisfied
+United States,Mundelein,1,526,10,15,154.02,neutral
+Italy,Rome,0,402,3,48,68.84,unsatisfied
+United States,Midland,1,163,5,94,150.74,satisfied
+China,Shenzhen,0,433,10,45,71.51,unsatisfied
+United States,Jersey Shore,1,221,8,13,98.39,very unsatisfied
+Canada,Port Perry,1,217,2,27,103.3,satisfied
+United States,Mansfield,1,517,10,17,167.11,very unsatisfied
+United States,Buena Vista,1,100,3,66,124.87,neutral
+United States,Dallas,0,488,1,20,94.73,neutral
+United States,Buckeye,1,214,5,79,158.32,satisfied
+China,Shenzhen,0,157,10,43,70.81,neutral
+Canada,Port Perry,0,507,2,12,52.46,neutral
+United States,Hialeah,1,437,3,35,120.19,very unsatisfied
+Italy,Rome,1,550,5,6,52.58,satisfied
+United States,Belton,1,590,2,0,0,satisfied
+United States,Mission Viejo,1,504,3,0,0,unsatisfied
+China,Shenzhen,0,298,5,2,79.77,neutral
+United States,Pittsburgh,1,556,9,40,179.97,neutral
+United States,Marquette,1,101,10,0,0,neutral
+Canada,Port Perry,1,73,5,3,223.76,unsatisfied
+China,Shenzhen,0,80,8,36,61.3,satisfied
+Italy,Rome,0,456,5,13,137.18,very satisfied
+United States,Columbia,1,143,10,97,279.59,very satisfied
+United States,Nashville,1,39,10,29,69.06,very unsatisfied
+France,Paris,1,419,5,2,69.53,satisfied
+United States,Cedar Park,1,15,8,0,0,very satisfied
+United States,Seattle,1,308,5,62,128.82,very satisfied
+Canada,Port Perry,1,238,5,4,129.04,satisfied
+United States,Saint Charles,1,407,10,0,0,satisfied
+Canada,Moncton,1,530,3,0,0,very satisfied
+Canada,Toronto,1,179,3,4,43.16,satisfied
+United States,Columbus,1,293,3,43,156.97,very satisfied
+China,Beijing,1,296,10,17,99.9,unsatisfied
+Italy,Rome,0,434,10,56,78.39,satisfied
+Canada,Toronto,1,324,8,59,160.66,unsatisfied
+United States,Williamsburg,0,336,10,50,76.46,neutral
+France,Paris,1,399,5,4,130.71,very unsatisfied
+Canada,Toronto,1,115,8,40,130.91,unsatisfied
+United States,Albany,0,361,10,4,66.72,very satisfied
+United States,Germantown,1,438,5,26,211.28,very satisfied
+China,Guangzhou,0,262,10,47,68.73,unsatisfied
+United States,Tacoma,1,536,5,1,44.01,satisfied
+Canada,Toronto,1,512,3,18,143.83,very satisfied
+Canada,Toronto,0,504,10,80,41.52,unsatisfied
+United States,Broken Arrow,0,176,2,73,59.86,satisfied
+Canada,Toronto,1,245,8,0,0,unsatisfied
+United States,Sioux Falls,1,472,2,2,326.73,unsatisfied
+Canada,Moncton,1,457,10,20,51.66,unsatisfied
+Canada,Vancouver,0,533,3,25,53.39,satisfied
+United States,Bothell,0,0,3,39,52.11,satisfied
+China,Guangzhou,0,588,10,21,59.89,very satisfied
+Canada,Toronto,1,416,3,20,85.91,very satisfied
+Canada,Vancouver,1,424,5,52,233.33,unsatisfied
+United States,Meridian,0,49,3,44,45.53,very unsatisfied
+Canada,Medicine Hat,0,88,2,3,78.08,neutral
+United States,San Jose,0,506,10,64,84.38,neutral
+United States,Naples,1,505,8,56,234.51,satisfied
+United States,Greeneville,1,518,5,78,130.24,unsatisfied
+United Kingdom,York,1,259,2,14,64.56,neutral
+Canada,Toronto,1,157,10,29,132.97,neutral
+United States,Barre,0,302,10,59,57.48,satisfied
+Canada,Toronto,1,503,8,49,163.89,unsatisfied
+United States,Franklin,1,451,5,5,265.87,very satisfied
+Canada,Toronto,0,322,5,5,27.04,neutral
+United Kingdom,York,1,380,8,67,151.31,very satisfied
+United States,Duluth,1,441,3,71,183.78,neutral
+Canada,Winnipeg,1,84,2,18,228.84,satisfied
+Italy,Rome,1,159,3,76,113.4,neutral
+United States,Ardmore,1,281,8,1,161.92,very satisfied
+Canada,Long Beach,1,233,2,46,195.96,satisfied
+Canada,Vancouver,0,319,5,4,33.17,neutral
+United States,Billings,0,59,5,78,25.45,very satisfied
+United States,Notre Dame,1,248,2,70,153.58,unsatisfied
+China,Shangahai,1,381,5,37,246.54,satisfied
+China,Beijing,0,542,5,29,25.62,satisfied
+Italy,Rome,1,407,3,41,114.06,very satisfied
+Italy,Rome,0,356,3,17,58.97,very unsatisfied
+United States,Norristown,1,71,2,17,93.5,satisfied
+China,Beijing,0,515,8,29,34.65,neutral
+Italy,Rome,1,519,5,4,190.24,neutral
+Italy,Rome,1,489,5,0,0,neutral
+Canada,Port Perry,1,308,3,65,205.43,very unsatisfied
+Canada,Toronto,1,542,3,18,88.73,unsatisfied
+China,Guangzhou,0,352,3,10,23,unsatisfied
+United States,Fort Worth,1,596,3,54,81.72,very unsatisfied
+China,Beijing,0,167,10,28,20.49,very satisfied
+Italy,Rome,0,188,10,36,176,very unsatisfied
+United States,Hudson,0,509,3,70,78.74,unsatisfied
+Australia,Horsham,1,577,8,38,120.47,very satisfied
+United Kingdom,York,1,504,2,33,51.8,very satisfied
+Italy,Turin,1,498,3,41,22.32,unsatisfied
+China,Beijing,0,146,8,69,73.65,neutral
+Italy,Rome,1,129,10,31,154.13,unsatisfied
+China,Guangzhou,0,386,10,55,26.29,unsatisfied
+United Kingdom,London,1,469,10,18,145.55,unsatisfied
+United States,Silver Spring,1,53,9,0,0,neutral
+United Kingdom,Measham,1,11,8,13,297.09,unsatisfied
+China,Beijing,0,467,10,68,91.1,unsatisfied
+Italy,Rome,0,387,5,55,69.73,satisfied
+United States,Provo,1,339,2,69,18.84,satisfied
+United States,Orangeburg,1,0,10,23,208.25,satisfied
+United States,Santa Fe,0,435,2,75,54.81,satisfied
+United States,Charlotte,1,497,10,11,149.18,neutral
+Italy,Rome,1,84,8,32,93.36,satisfied
+Canada,Port Perry,0,378,10,6,56.99,very unsatisfied
+United States,Apache Junction,1,133,5,13,219.27,very unsatisfied
+United Kingdom,Leeds,0,69,5,26,16.64,very satisfied
+United States,Davis,1,250,10,2,122.65,neutral
+China,Guangzhou,1,267,5,17,184.7,very unsatisfied
+United States,Howell,0,365,10,29,50.4,neutral
+United States,Richmond,1,593,8,15,45.31,neutral
+United States,San Leandro,1,94,3,9,237.59,unsatisfied
+Canada,Lacombe,0,382,10,14,69.21,neutral
+China,Beijing,0,475,5,23,59.59,neutral
+Italy,Rome,1,85,10,36,37.73,very satisfied
+Canada,Toronto,0,243,2,15,32.83,unsatisfied
+United States,New Market,1,60,10,50,93.18,neutral
+United States,Bay City,1,476,3,45,106.96,satisfied
+United States,Carmichael,1,354,10,6,148.42,satisfied
+Canada,Charlottetown,0,347,3,78,44.08,unsatisfied
+United States,Flemington,0,202,10,49,66.04,very satisfied
+Canada,Toronto,1,409,3,73,21.34,neutral
+Canada,Toronto,0,398,5,0,0,neutral
+Canada,Port Perry,1,92,5,63,181.5,very satisfied
+Canada,Toronto,1,596,10,6,143,very satisfied
+Canada,Toronto,0,299,2,35,62.67,unsatisfied
+United States,Spokane,0,264,10,41,94.77,very satisfied
+United Kingdom,York,1,183,2,48,266.4,satisfied
+United States,Youngstown,1,354,3,18,142.15,unsatisfied
+Canada,Toronto,0,479,2,54,7.61,neutral
+United States,Franklin,1,436,5,73,32.18,very unsatisfied
+Canada,Toronto,0,573,2,10,153.63,neutral
+Canada,Toronto,1,323,10,24,34.61,neutral
+Canada,Toronto,0,309,3,16,16.49,unsatisfied
+Canada,Toronto,1,290,8,9,156.53,unsatisfied
+China,Shangahai,0,537,2,13,28.29,unsatisfied
+United States,Kent,1,67,10,37,252.05,very unsatisfied
+United States,Grand Island,0,513,10,77,10.02,very unsatisfied
+China,Guangzhou,0,482,8,51,74.67,satisfied
+United States,Fayetteville,1,239,10,43,84.55,very unsatisfied
+United States,Saint Marys,1,345,5,5,70.53,unsatisfied
+France,Paris,1,413,3,42,156.05,neutral
+United States,Corning,1,473,5,4,119.03,very satisfied
+United States,Folsom,1,266,10,17,193.05,very unsatisfied
+United States,Marina,1,445,10,24,75.97,very unsatisfied
+United States,Everett,0,144,10,7,2.46,very unsatisfied
+United States,Winter Park,1,591,5,63,122.08,neutral
+Australia,Hobart,1,128,2,57,137.49,neutral
+United Kingdom,Manchester,1,294,10,35,204.4,satisfied
+United States,Florence,0,122,10,33,78.33,neutral
+Australia,Melbourne,0,67,5,4,103.4,very satisfied
+Canada,Toronto,1,158,10,19,196.06,unsatisfied
+China,Beijing,0,277,3,3,7.88,satisfied
+Italy,Rome,0,26,8,33,24.37,unsatisfied
+United States,Evansville,1,522,8,18,130.37,very unsatisfied
+United States,Houston,0,548,3,43,62.73,unsatisfied
+United States,Kansas City,1,137,5,5,107.7,unsatisfied
+China,Shangahai,1,384,5,9,221.94,unsatisfied
+United States,Austin,1,55,2,2,176.93,unsatisfied
+France,Lyon,1,142,5,76,109.28,very satisfied
+United Kingdom,Bradford,0,99,3,8,120.08,very unsatisfied
+United States,Abingdon,1,351,10,26,88.1,neutral
+United States,New Bedford,1,295,3,24,244.42,satisfied
+France,Paris,1,583,5,26,138.83,neutral
+United States,Columbia,1,189,3,8,34,very unsatisfied
+Canada,Vancouver,0,570,3,28,137.1,neutral
+United States,Indianapolis,1,463,3,71,256.63,very satisfied
+Italy,Rome,1,77,8,10,96.06,unsatisfied
+United States,Mountain View,1,229,10,0,0,neutral
+United States,Harrisonville,1,523,10,56,52.89,very satisfied
+Canada,Vancouver,1,591,10,15,189.29,very satisfied
+United States,Des Moines,1,110,10,57,74.29,satisfied
+China,Beijing,0,418,3,78,95.05,neutral
+Italy,Rome,1,250,3,6,130.9,unsatisfied
+United States,De Pere,1,249,10,67,73.72,very satisfied
+Italy,Rome,1,301,5,24,206.11,unsatisfied
+United States,Conway,1,390,5,64,71.05,unsatisfied
+Canada,Toronto,1,43,5,24,64.01,very satisfied
+United States,Fayetteville,1,507,5,62,139.78,unsatisfied
+China,Shangahai,1,157,5,14,219.09,satisfied
+United States,Elkhorn,1,498,3,90,236.44,very unsatisfied
+China,Shangahai,0,230,10,5,41.23,very unsatisfied
+Canada,Wendover,1,400,10,34,54.43,very satisfied
+United States,Albany,1,363,9,6,472.8,very unsatisfied
+United States,Lansing,1,582,10,31,171.51,neutral
+China,Shangahai,0,8,5,31,84.91,unsatisfied
+United States,Long Beach,1,537,5,0,0,very satisfied
+United States,North Royalton,1,582,9,9,151.22,neutral
+India,Poona,0,244,5,10,84.17,unsatisfied
+Canada,Toronto,1,38,10,0,0,unsatisfied
+United States,Phoenix,1,233,5,31,139.37,satisfied
+Canada,Toronto,1,23,1,23,133.35,neutral
+Canada,Toronto,1,582,8,43,99.7,neutral
+United States,Ephrata,1,38,3,3,136.51,unsatisfied
+China,Shangahai,0,16,9,23,155.91,satisfied
+Australia,Melbourne,1,67,5,0,0,very satisfied
+China,Beijing,1,252,3,43,125.03,neutral
+Canada,Toronto,1,23,1,0,0,satisfied
+United States,Columbia,1,189,3,8,137.81,very unsatisfied
+Canada,Vancouver,0,570,3,28,14.91,neutral
+Canada,Toronto,1,463,3,0,0,very satisfied
+United States,Ephrata,1,77,8,12,251.22,unsatisfied
+China,Shangahai,1,229,10,72,684.17,neutral
+Australia,Melbourne,1,523,10,56,540.41,very satisfied
+Canada,Vancouver,1,591,10,13,484.17,neutral
+United States,Des Moines,1,110,10,57,140.41,satisfied
+United States,Corning,1,418,3,0,0,neutral
+China,Shangahai,0,384,5,9,21.94,unsatisfied
+United States,Marina,1,55,2,0,0,neutral
+United States,Everett,1,142,5,0,0,neutral
+United States,Winter Park,1,99,3,8,120.08,very unsatisfied
+Australia,Hobart,1,384,5,9,321.94,neutral
+United Kingdom,Manchester,1,55,2,0,0,neutral
+China,Beijing,0,142,5,3,109.28,very satisfied
+Australia,Melbourne,1,99,3,0,0,neutral
+Canada,Toronto,1,323,10,4,196.06,neutral
+United States,Folsom,0,309,3,16,7.88,unsatisfied
+United States,Marina,1,290,8,9,34.37,neutral
+United States,Everett,0,537,2,13,60.37,unsatisfied
+United States,Winter Park,1,67,10,17,62.73,neutral
+Australia,Hobart,0,513,10,77,107.7,very unsatisfied
+United Kingdom,Manchester,0,482,8,51,121.94,satisfied
+United States,Florence,1,239,10,0,0,neutral
+Australia,Melbourne,1,308,5,62,109.28,very satisfied
+Canada,Toronto,1,238,5,0,0,neutral
+Canada,Toronto,1,407,10,31,288.1,satisfied
+China,Beijing,0,530,3,150,74.42,very satisfied
+Canada,Toronto,1,179,3,0,0,satisfied
+China,Shangahai,0,537,2,13,28.29,neutral
